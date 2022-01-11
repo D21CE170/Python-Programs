@@ -1,0 +1,5 @@
+c=set()
+print(c)
+print("Element Add")
+c.add(1)
+print(c)
